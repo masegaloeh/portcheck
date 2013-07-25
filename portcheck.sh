@@ -5,6 +5,9 @@
 #
 # Mail: kim@bitflop.com
 #
+# Modified by Zagalo Nanda M
+# Mail: masegaloeh@gmail.com
+#
 # KNL software license.
 #
 # This software is released as Open Source. It means that you may use 
